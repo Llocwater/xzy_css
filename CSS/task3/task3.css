@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+	background: #68cdd5;
+	font-size: 12px;
+}
+.wrap{
+
+    padding: 4rem 15% 0.25rem 15%;
+    
+	color: white;
+}
+.header1{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.header2{
+	text-align: center;
+	margin:45px ;
+    
+}
+.header2 img{
+	;
+}
+.article{
+	
+	padding: 10% 1%;
+	line-height: 150%
+
+}
+.footer{
+    padding: 55px 0;
+}
+.box1{
+	width: 60px;
+    float: left;
+}
+.box2{
+	width:60px;
+    float: right;
+}

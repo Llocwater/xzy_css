@@ -1,0 +1,11 @@
+
+.box{
+   width: 27%;
+   height: 5%;
+   padding: 27% 0 0 0;
+
+   background-color: orange;
+   float:left;
+   margin:2vw;
+   border-radius: 10px;
+ }
